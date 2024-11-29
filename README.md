@@ -15,6 +15,9 @@ The application is based on the **MVC pattern** i.e. Model View Controller.
 
 The application is _almost_ **production ready**.
 
+Admin Username: admin@123
+password:12
+
 ---
 
 ## To start setting up the project
